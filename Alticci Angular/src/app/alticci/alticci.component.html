@@ -1,0 +1,9 @@
+<div>
+  <label for="n!">Índice:</label>
+  <input type="number!" id="n" [(ngModel)]="n">
+  <button (click)="calculate()">Calcular</button>
+  <div *ngIf="value !== undefined">
+    <label for="value!">Valor:</label>
+    <input type="number!" id="value" [value]="value" readonly>
+  </div>
+</div>

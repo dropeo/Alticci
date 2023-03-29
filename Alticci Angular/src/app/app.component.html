@@ -1,0 +1,16 @@
+<div class="container">
+    <br>
+    <form>
+    <h1>Sequência de Alticci</h1>
+      <div class="form-group">
+        <p>Digite um valor aqui</p>
+        <input type="number" [(ngModel)]="number" name="id" class="form-control" placeholder="ID">
+        <input type="button" (click)="getFromApi(number)" value="Calcular" class="btn btn-primary">
+      </div>
+    </form>
+    <br>
+    <div *ngIf="apiNumber">
+        <h1>A sequência Alticci é: </h1>
+        <p>{{apiNumber}}</p>
+    </div>
+</div>
