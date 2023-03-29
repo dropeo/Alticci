@@ -23,7 +23,9 @@ Para rodar o projeto com o Angular, siga os seguintes passos:
 No terminal, execute o comando "npm start"
 
 Acesse o localhost indicado no terminal. Normalmente o localhost é http://localhost:8080/.
+
 A documentação encontra-se: http://localhost:8080/swagger-ui/index.html
+
 # Tecnologias utilizadas
 IDE Eclipse, 
 VSCode, 
