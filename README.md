@@ -14,7 +14,7 @@ Angular,
 Spring 
 
 # Executando o projeto com o Eclipse
-Para rodar o projeto com o Eclipse, basta dar "RUN" no arquivo alticci/src/main/java/org.alticci/AlticciApplication.java.
+Para rodar o projeto com o Eclipse, basta dar "RUN" no arquivo que está na pasta Alticci Eclipse - alticci/src/main/java/org.alticci/AlticciApplication.java.
 
 # Executando o projeto com o Angular
 Para rodar o projeto com o Angular, siga os seguintes passos:
@@ -25,11 +25,11 @@ No terminal, execute o comando "npm start"
 Acesse o localhost indicado no terminal. Normalmente o localhost é http://localhost:8080/.
 
 # Tecnologias utilizadas
-IDE Eclipse
-VSCode
-Java
-JavaScript
-HTML
-CSS
-Angular
+IDE Eclipse, 
+VSCode, 
+Java, 
+JavaScript, 
+HTML, 
+CSS, 
+Angular, 
 Spring
