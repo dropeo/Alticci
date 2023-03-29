@@ -1,5 +1,6 @@
 # Alticci
 Este repositório contém a pasta Alticci Angular e Alticci Eclipse, que pode ser rodada com o Eclipse e com o Angular.
+Para que o projeto funcione é necessário ter as duas pastas iniciadas, para que o Angular aplique na API as configurações feitas.
 
 # Configuração
 Antes de executar o projeto, verifique se a máquina está configurada com as tecnologias abaixo:
