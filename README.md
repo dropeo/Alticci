@@ -35,4 +35,4 @@ JavaScript,
 HTML, 
 CSS, 
 Angular, 
-Spring
+Spring.
