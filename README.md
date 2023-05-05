@@ -12,7 +12,7 @@ JavaScript,
 HTML, 
 CSS, 
 Angular, 
-Spring .
+Spring.
 
 # Executando o projeto com o Eclipse
 Para rodar o projeto com o Eclipse, basta dar "RUN" no arquivo que está na pasta Alticci Eclipse - alticci/src/main/java/org.alticci/AlticciApplication.java.
